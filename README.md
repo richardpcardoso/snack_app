@@ -1,4 +1,4 @@
-# SNACK APP
+<p align="center"><img src="https://i.ibb.co/vwNvf6h/logo-white.png" width="200"></p>
 
 Este aplicativo foi desenvolvido em Flutter para o desafio Tech in Community e A3.
 
